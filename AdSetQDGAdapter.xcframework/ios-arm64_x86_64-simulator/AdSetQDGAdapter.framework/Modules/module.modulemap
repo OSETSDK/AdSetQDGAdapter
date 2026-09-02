@@ -1,0 +1,6 @@
+framework module AdSetQDGAdapter {
+  umbrella header "AdSetQDGAdapter.h"
+  export *
+
+  module * { export * }
+}

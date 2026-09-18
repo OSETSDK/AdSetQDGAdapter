@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AdSetQDGAdapter"
-  s.version      = "1.0.1"
+  s.version      = "2.0.1.0"
   s.summary      = "AdSet广告对接适配器类"
   s.description  = <<-DESC
                     AdSetQDGAdapter 是一个专业的广告聚合SDK，提供高效的广告展示和收益优化功能。
